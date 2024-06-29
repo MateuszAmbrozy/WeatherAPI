@@ -28,6 +28,7 @@ When adding the fetched data to the database, the data is checked to avoid dupli
 ### III. Advanced GUI and Data Processing
 
 The final user interface is as follows:
+![Screenshot](images/img.png)
 
 #### Data Filtering
 

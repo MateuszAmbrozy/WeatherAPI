@@ -36,7 +36,3 @@ To filter data fetched from the API, a list is provided with the option to selec
 #### Data Display
 
 Data is displayed using a TreeView, which calculates the average temperature for cities based on the data available in the database.
-
----
-
-This documentation provides an overview of the WeatherDataApp's structure, functionality, and technology stack. It serves as a guide for understanding the application's components and their interactions.
